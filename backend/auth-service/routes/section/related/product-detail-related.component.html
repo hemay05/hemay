@@ -1,0 +1,57 @@
+<!-- product-detail-related.component.html -->
+<section class="container pb-5 mb-2 mb-sm-3 mb-lg-4 mb-xl-5">
+  <div class="d-flex align-items-center justify-content-between border-bottom pb-3 pb-md-4 mb-3 mb-md-4">
+    <h2 class="h3 mb-0">Often bought with</h2>
+
+    <!-- Slider prev/next buttons -->
+    <div class="d-flex gap-2 ms-3">
+      <button type="button" class="btn btn-icon btn-outline-secondary animate-slide-start rounded-circle me-1" id="prevBtn" aria-label="Prev">
+        <i class="ci-chevron-left fs-lg animate-target"></i>
+      </button>
+      <button type="button" class="btn btn-icon btn-outline-secondary animate-slide-end rounded-circle" id="nextBtn" aria-label="Next">
+        <i class="ci-chevron-right fs-lg animate-target"></i>
+      </button>
+    </div>
+  </div>
+
+  <!-- Products Grid -->
+  <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
+    
+    <!-- Product Item -->
+    <div class="col" *ngFor="let product of relatedProducts">
+      <div class="card product-card h-100 bg-transparent border-0 shadow-none">
+        <div class="position-relative z-2">
+          
+          <!-- Discount Badge -->
+          <span *ngIf="product.discount" class="badge text-bg-danger position-absolute top-0 start-0 z-2 mt-1 mt-sm-2 ms-1 ms-sm-2">
+            {{product.discountAmount}}
+          </span>
+          
+          <!-- Wishlist Button -->
+          <button type="button" class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2" aria-label="Add to Wishlist">
+            <i class="ci-heart animate-target"></i>
+          </button>
+          
+          <!-- Product Image -->
+          <a class="d-block p-2 p-lg-3" [routerLink]="['/product', product.id]">
+            <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
+              <img [src]="product.image" [alt]="product.name">
+            </div>
+          </a>
+        </div>
+        
+        <!-- Product Info -->
+        <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
+          <div class="h6 mb-2">
+            ${{product.price}}
+            <del *ngIf="product.originalPrice" class="fs-sm fw-normal text-body-tertiary ms-1">${{product.originalPrice}}</del>
+          </div>
+          <h3 class="fs-sm lh-base mb-0">
+            <a class="hover-effect-underline fw-normal" [routerLink]="['/product', product.id]">{{product.name}}</a>
+          </h3>
+        </div>
+        <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">{{product.weight}}</div>
+      </div>
+    </div>
+  </div>
+</section>

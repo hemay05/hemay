@@ -1,0 +1,50 @@
+<!-- product-detail-gallery.component.html -->
+
+  <div class="d-flex" style="padding-top: 120px">
+
+    <!-- Thumbnails -->
+    <div class="swiper swiper-load swiper-thumbs d-none d-lg-block w-100 me-xl-3" 
+         id="thumbs" data-swiper='{
+           "direction": "vertical",
+           "spaceBetween": 12,
+           "slidesPerView": 4,
+           "watchSlidesProgress": true
+         }' style="max-width: 96px; height: 420px;">
+      <div class="swiper-wrapper flex-column">
+        <div class="swiper-slide swiper-thumb" *ngFor="let image of images; let i = index"
+             [class.active]="image === selectedImage"
+             (click)="selectImage(image)">
+          <div class="ratio ratio-1x1" style="max-width: 94px">
+            <img [src]="image" class="swiper-thumb-img" [alt]="'Thumbnail ' + (i + 1)">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Preview (Large image) -->
+    <div class="swiper w-100" data-swiper='{
+      "loop": false,
+      "thumbs": {
+        "swiper": "#thumbs"
+      },
+      "pagination": {
+        "el": ".swiper-pagination",
+        "clickable": true
+      }
+    }'>
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <a class="ratio ratio-1x1 d-block cursor-zoom-in" 
+             [href]="selectedImage" 
+             data-glightbox 
+             data-gallery="product-gallery">
+            <img [src]="selectedImage" alt="Product preview">
+          </a>
+        </div>
+      </div>
+
+      <!-- Slider pagination (Bullets) visible on screens > 991px wide (lg breakpoint) -->
+      <div class="swiper-pagination mb-n3 d-lg-none"></div>
+    </div>
+  </div>
+
