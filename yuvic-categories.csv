@@ -1,0 +1,12 @@
+name,slug,description,image_url,status,parent_category,is_featured,sort_order,meta_title,meta_description
+Vitamin C,vitamin-c,Vitamin C enriched cosmetic products,,true,,true,33,Vitamin C Products,Shop Vitamin C skincare and beauty products
+Coffee,coffee,Coffee based cosmetic products,,true,,true,34,Coffee Products,Shop Coffee infused beauty products
+Sea Buckthorn,sea-buckthorn,Sea Buckthorn cosmetic products,,true,,true,35,Sea Buckthorn Products,Shop Sea Buckthorn skincare products
+Strawberry,strawberry,Strawberry flavored cosmetic products,,true,,true,36,Strawberry Products,Shop Strawberry beauty products
+Charcoal,charcoal,Charcoal based cosmetic products,,true,,true,37,Charcoal Products,Shop Charcoal skincare products
+Ubtan,ubtan,Traditional Ubtan cosmetic products,,true,,true,38,Ubtan Products,Shop Ubtan beauty products
+Guava,guava,Guava based cosmetic products,,true,,true,39,Guava Products,Shop Guava skincare products
+Pineapple,pineapple,Pineapple infused cosmetic products,,true,,true,40,Pineapple Products,Shop Pineapple beauty products
+Papaya,papaya,Papaya based cosmetic products,,true,,true,41,Papaya Products,Shop Papaya skincare products
+Kiwi Dragon Fruit,kiwi-dragon-fruit,Kiwi and Dragon Fruit cosmetic products,,true,,true,42,Kiwi Dragon Fruit Products,Shop Kiwi and Dragon Fruit beauty products
+Anardana,anardana,Anardana (Pomegranate) cosmetic products,,true,,true,43,Anardana Products,Shop Anardana skincare products

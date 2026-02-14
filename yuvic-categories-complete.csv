@@ -1,0 +1,90 @@
+name,slug,description,image_url,status,parent_category,is_featured,sort_order,meta_title,meta_description
+Body Wash,body-wash,Body wash and shower gels,,true,,true,1,Body Wash Products,Shop body wash and shower products
+Vitamin C,vitamin-c-body-wash,Vitamin C body wash,,true,Body Wash,false,1,Vitamin C Body Wash,Shop Vitamin C body wash
+Coffee,coffee-body-wash,Coffee body wash,,true,Body Wash,false,2,Coffee Body Wash,Shop Coffee body wash
+Sea Buckthorn,sea-buckthorn-body-wash,Sea Buckthorn body wash,,true,Body Wash,false,3,Sea Buckthorn Body Wash,Shop Sea Buckthorn body wash
+Strawberry,strawberry-body-wash,Strawberry body wash,,true,Body Wash,false,4,Strawberry Body Wash,Shop Strawberry body wash
+Charcoal,charcoal-body-wash,Charcoal body wash,,true,Body Wash,false,5,Charcoal Body Wash,Shop Charcoal body wash
+Ubtan,ubtan-body-wash,Ubtan body wash,,true,Body Wash,false,6,Ubtan Body Wash,Shop Ubtan body wash
+Guava,guava-body-wash,Guava body wash,,true,Body Wash,false,7,Guava Body Wash,Shop Guava body wash
+Pineapple,pineapple-body-wash,Pineapple body wash,,true,Body Wash,false,8,Pineapple Body Wash,Shop Pineapple body wash
+Papaya,papaya-body-wash,Papaya body wash,,true,Body Wash,false,9,Papaya Body Wash,Shop Papaya body wash
+Kiwi Dragon Fruit,kiwi-dragon-fruit-body-wash,Kiwi and Dragon Fruit body wash,,true,Body Wash,false,10,Kiwi Dragon Fruit Body Wash,Shop Kiwi Dragon Fruit body wash
+Anardana,anardana-body-wash,Anardana body wash,,true,Body Wash,false,11,Anardana Body Wash,Shop Anardana body wash
+Face Pack,face-pack,Face packs and masks,,true,,true,2,Face Pack Products,Shop face packs and masks
+Vitamin C,vitamin-c-face-pack,Vitamin C face pack,,true,Face Pack,false,1,Vitamin C Face Pack,Shop Vitamin C face pack
+Coffee,coffee-face-pack,Coffee face pack,,true,Face Pack,false,2,Coffee Face Pack,Shop Coffee face pack
+Sea Buckthorn,sea-buckthorn-face-pack,Sea Buckthorn face pack,,true,Face Pack,false,3,Sea Buckthorn Face Pack,Shop Sea Buckthorn face pack
+Strawberry,strawberry-face-pack,Strawberry face pack,,true,Face Pack,false,4,Strawberry Face Pack,Shop Strawberry face pack
+Charcoal,charcoal-face-pack,Charcoal face pack,,true,Face Pack,false,5,Charcoal Face Pack,Shop Charcoal face pack
+Ubtan,ubtan-face-pack,Ubtan face pack,,true,Face Pack,false,6,Ubtan Face Pack,Shop Ubtan face pack
+Guava,guava-face-pack,Guava face pack,,true,Face Pack,false,7,Guava Face Pack,Shop Guava face pack
+Pineapple,pineapple-face-pack,Pineapple face pack,,true,Face Pack,false,8,Pineapple Face Pack,Shop Pineapple face pack
+Papaya,papaya-face-pack,Papaya face pack,,true,Face Pack,false,9,Papaya Face Pack,Shop Papaya face pack
+Kiwi Dragon Fruit,kiwi-dragon-fruit-face-pack,Kiwi and Dragon Fruit face pack,,true,Face Pack,false,10,Kiwi Dragon Fruit Face Pack,Shop Kiwi Dragon Fruit face pack
+Anardana,anardana-face-pack,Anardana face pack,,true,Face Pack,false,11,Anardana Face Pack,Shop Anardana face pack
+Conditioner,conditioner,Hair conditioners,,true,,true,3,Conditioner Products,Shop hair conditioners
+Onion,onion-conditioner,Onion conditioner,,true,Conditioner,false,1,Onion Conditioner,Shop Onion conditioner
+Keratin,keratin-conditioner,Keratin conditioner,,true,Conditioner,false,2,Keratin Conditioner,Shop Keratin conditioner
+Rice Water,rice-water-conditioner,Rice water conditioner,,true,Conditioner,false,3,Rice Water Conditioner,Shop Rice Water conditioner
+Aloe,aloe-conditioner,Aloe conditioner,,true,Conditioner,false,4,Aloe Conditioner,Shop Aloe conditioner
+Anti Dandruff,anti-dandruff-conditioner,Anti dandruff conditioner,,true,Conditioner,false,5,Anti Dandruff Conditioner,Shop Anti Dandruff conditioner
+Apple Cider Vinegar,apple-cider-vinegar-conditioner,Apple cider vinegar conditioner,,true,Conditioner,false,6,Apple Cider Vinegar Conditioner,Shop Apple Cider Vinegar conditioner
+Shampoo,shampoo,Hair shampoos,,true,,true,4,Shampoo Products,Shop hair shampoos
+Onion,onion-shampoo,Onion shampoo,,true,Shampoo,false,1,Onion Shampoo,Shop Onion shampoo
+Keratin,keratin-shampoo,Keratin shampoo,,true,Shampoo,false,2,Keratin Shampoo,Shop Keratin shampoo
+Rice Water,rice-water-shampoo,Rice water shampoo,,true,Shampoo,false,3,Rice Water Shampoo,Shop Rice Water shampoo
+Aloe,aloe-shampoo,Aloe shampoo,,true,Shampoo,false,4,Aloe Shampoo,Shop Aloe shampoo
+Anti Dandruff,anti-dandruff-shampoo,Anti dandruff shampoo,,true,Shampoo,false,5,Anti Dandruff Shampoo,Shop Anti Dandruff shampoo
+Apple Cider Vinegar,apple-cider-vinegar-shampoo,Apple cider vinegar shampoo,,true,Shampoo,false,6,Apple Cider Vinegar Shampoo,Shop Apple Cider Vinegar shampoo
+ACV Tablet,acv-tablet,Apple cider vinegar tablets,,true,,true,5,ACV Tablet Products,Shop ACV tablets
+Apple,apple-acv-tablet,Apple ACV tablet,,true,ACV Tablet,false,1,Apple ACV Tablet,Shop Apple ACV tablet
+Lemon Masala,lemon-masala-acv-tablet,Lemon masala ACV tablet,,true,ACV Tablet,false,2,Lemon Masala ACV Tablet,Shop Lemon Masala ACV tablet
+Blueberry,blueberry-acv-tablet,Blueberry ACV tablet,,true,ACV Tablet,false,3,Blueberry ACV Tablet,Shop Blueberry ACV tablet
+Moringa,moringa-acv-tablet,Moringa ACV tablet,,true,ACV Tablet,false,4,Moringa ACV Tablet,Shop Moringa ACV tablet
+Body Lotion,body-lotion,Body lotions and moisturizers,,true,,true,6,Body Lotion Products,Shop body lotions
+Vitamin C,vitamin-c-body-lotion,Vitamin C body lotion,,true,Body Lotion,false,1,Vitamin C Body Lotion,Shop Vitamin C body lotion
+Coffee,coffee-body-lotion,Coffee body lotion,,true,Body Lotion,false,2,Coffee Body Lotion,Shop Coffee body lotion
+Sea Buckthorn,sea-buckthorn-body-lotion,Sea Buckthorn body lotion,,true,Body Lotion,false,3,Sea Buckthorn Body Lotion,Shop Sea Buckthorn body lotion
+Strawberry,strawberry-body-lotion,Strawberry body lotion,,true,Body Lotion,false,4,Strawberry Body Lotion,Shop Strawberry body lotion
+Charcoal,charcoal-body-lotion,Charcoal body lotion,,true,Body Lotion,false,5,Charcoal Body Lotion,Shop Charcoal body lotion
+Ubtan,ubtan-body-lotion,Ubtan body lotion,,true,Body Lotion,false,6,Ubtan Body Lotion,Shop Ubtan body lotion
+Guava,guava-body-lotion,Guava body lotion,,true,Body Lotion,false,7,Guava Body Lotion,Shop Guava body lotion
+Pineapple,pineapple-body-lotion,Pineapple body lotion,,true,Body Lotion,false,8,Pineapple Body Lotion,Shop Pineapple body lotion
+Papaya,papaya-body-lotion,Papaya body lotion,,true,Body Lotion,false,9,Papaya Body Lotion,Shop Papaya body lotion
+Kiwi Dragon Fruit,kiwi-dragon-fruit-body-lotion,Kiwi and Dragon Fruit body lotion,,true,Body Lotion,false,10,Kiwi Dragon Fruit Body Lotion,Shop Kiwi Dragon Fruit body lotion
+Anardana,anardana-body-lotion,Anardana body lotion,,true,Body Lotion,false,11,Anardana Body Lotion,Shop Anardana body lotion
+Face Wash,face-wash,Face wash and cleansers,,true,,true,7,Face Wash Products,Shop face wash products
+Vitamin C,vitamin-c-face-wash,Vitamin C face wash,,true,Face Wash,false,1,Vitamin C Face Wash,Shop Vitamin C face wash
+Coffee,coffee-face-wash,Coffee face wash,,true,Face Wash,false,2,Coffee Face Wash,Shop Coffee face wash
+Sea Buckthorn,sea-buckthorn-face-wash,Sea Buckthorn face wash,,true,Face Wash,false,3,Sea Buckthorn Face Wash,Shop Sea Buckthorn face wash
+Strawberry,strawberry-face-wash,Strawberry face wash,,true,Face Wash,false,4,Strawberry Face Wash,Shop Strawberry face wash
+Charcoal,charcoal-face-wash,Charcoal face wash,,true,Face Wash,false,5,Charcoal Face Wash,Shop Charcoal face wash
+Ubtan,ubtan-face-wash,Ubtan face wash,,true,Face Wash,false,6,Ubtan Face Wash,Shop Ubtan face wash
+Guava,guava-face-wash,Guava face wash,,true,Face Wash,false,7,Guava Face Wash,Shop Guava face wash
+Pineapple,pineapple-face-wash,Pineapple face wash,,true,Face Wash,false,8,Pineapple Face Wash,Shop Pineapple face wash
+Papaya,papaya-face-wash,Papaya face wash,,true,Face Wash,false,9,Papaya Face Wash,Shop Papaya face wash
+Kiwi Dragon Fruit,kiwi-dragon-fruit-face-wash,Kiwi and Dragon Fruit face wash,,true,Face Wash,false,10,Kiwi Dragon Fruit Face Wash,Shop Kiwi Dragon Fruit face wash
+Anardana,anardana-face-wash,Anardana face wash,,true,Face Wash,false,11,Anardana Face Wash,Shop Anardana face wash
+Serum,serum,Face serums,,true,,true,8,Serum Products,Shop face serums
+Vitamin C,vitamin-c-serum,Vitamin C serum,,true,Serum,false,1,Vitamin C Serum,Shop Vitamin C serum
+Coffee,coffee-serum,Coffee serum,,true,Serum,false,2,Coffee Serum,Shop Coffee serum
+Sea Buckthorn,sea-buckthorn-serum,Sea Buckthorn serum,,true,Serum,false,3,Sea Buckthorn Serum,Shop Sea Buckthorn serum
+Strawberry,strawberry-serum,Strawberry serum,,true,Serum,false,4,Strawberry Serum,Shop Strawberry serum
+Guava,guava-serum,Guava serum,,true,Serum,false,5,Guava Serum,Shop Guava serum
+Pineapple,pineapple-serum,Pineapple serum,,true,Serum,false,6,Pineapple Serum,Shop Pineapple serum
+Papaya,papaya-serum,Papaya serum,,true,Serum,false,7,Papaya Serum,Shop Papaya serum
+Kiwi Dragon Fruit,kiwi-dragon-fruit-serum,Kiwi and Dragon Fruit serum,,true,Serum,false,8,Kiwi Dragon Fruit Serum,Shop Kiwi Dragon Fruit serum
+Anardana,anardana-serum,Anardana serum,,true,Serum,false,9,Anardana Serum,Shop Anardana serum
+Scrub,scrub,Face and body scrubs,,true,,true,9,Scrub Products,Shop face and body scrubs
+Vitamin C,vitamin-c-scrub,Vitamin C scrub,,true,Scrub,false,1,Vitamin C Scrub,Shop Vitamin C scrub
+Coffee,coffee-scrub,Coffee scrub,,true,Scrub,false,2,Coffee Scrub,Shop Coffee scrub
+Sea Buckthorn,sea-buckthorn-scrub,Sea Buckthorn scrub,,true,Scrub,false,3,Sea Buckthorn Scrub,Shop Sea Buckthorn scrub
+Strawberry,strawberry-scrub,Strawberry scrub,,true,Scrub,false,4,Strawberry Scrub,Shop Strawberry scrub
+Charcoal,charcoal-scrub,Charcoal scrub,,true,Scrub,false,5,Charcoal Scrub,Shop Charcoal scrub
+Ubtan,ubtan-scrub,Ubtan scrub,,true,Scrub,false,6,Ubtan Scrub,Shop Ubtan scrub
+Guava,guava-scrub,Guava scrub,,true,Scrub,false,7,Guava Scrub,Shop Guava scrub
+Pineapple,pineapple-scrub,Pineapple scrub,,true,Scrub,false,8,Pineapple Scrub,Shop Pineapple scrub
+Papaya,papaya-scrub,Papaya scrub,,true,Scrub,false,9,Papaya Scrub,Shop Papaya scrub
+Kiwi Dragon Fruit,kiwi-dragon-fruit-scrub,Kiwi and Dragon Fruit scrub,,true,Scrub,false,10,Kiwi Dragon Fruit Scrub,Shop Kiwi Dragon Fruit scrub
+Anardana,anardana-scrub,Anardana scrub,,true,Scrub,false,11,Anardana Scrub,Shop Anardana scrub

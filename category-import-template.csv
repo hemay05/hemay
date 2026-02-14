@@ -1,0 +1,8 @@
+name,slug,description,image_url,status,parent_category,is_featured,sort_order,meta_title,meta_description
+Electronics,electronics,Electronic devices and accessories,,true,,true,1,Electronics - Shop Now,Buy the latest electronics
+Smartphones,smartphones,Latest smartphones and mobile devices,,true,Electronics,false,1,Smartphones - Best Deals,Shop for smartphones
+Laptops,laptops,Laptops and notebooks,,true,Electronics,false,2,Laptops - Top Brands,Buy laptops online
+Fashion,fashion,Clothing and accessories,,true,,true,2,Fashion - Latest Trends,Shop fashion online
+Men's Clothing,mens-clothing,Clothing for men,,true,Fashion,false,1,Men's Clothing,Shop men's fashion
+Women's Clothing,womens-clothing,Clothing for women,,true,Fashion,false,2,Women's Clothing,Shop women's fashion
+Home & Garden,home-garden,Home and garden products,,true,,false,3,Home & Garden,Shop home products
